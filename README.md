@@ -13,4 +13,4 @@
 
 
 # Link para demonstração
-![QR Code](minha-saude-hoje/assets/QR Code.png)
+![QR Code](minha-saude-hoje/assets/QR%20Code.png)
